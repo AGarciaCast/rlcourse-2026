@@ -2,7 +2,7 @@
 
 Here you can find the supplementary material used during my TA sessions.
 
-# Requirements
+## Requirements
 
 To install the requirements, we use conda. We recommend creating a new environment for the coding assignments.
 ```
